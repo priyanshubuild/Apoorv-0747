@@ -1,66 +1,73 @@
-<h1 align="center">Apoorv Verma</h1>
-<h3 align="center">B.Tech CSE Student · Full-Stack & AI Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/typing.svg" alt="Building AI-powered full-stack products" width="80%" />
-</p>
+<h1>Apoorv Verma</h1>
 
-<p align="center">
+<p><strong>Full-stack development · Applied AI · Problem solving</strong></p>
+
+<img src="assets/typing.svg" alt="Building AI-powered full-stack products" width="82%" />
+
+<p>
   <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
-  <a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
+  <a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Apoorv" /></a>
   <a href="https://leetcode.com/u/Apoorv0747/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=22d3ee" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/Apoorv0747"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=22d3ee" alt="CodeChef" /></a>
 </p>
 
----
+</div>
 
-### 👨‍💻 About
+## About me
 
-I build AI-powered, full-stack applications and enjoy turning real-world problems into working products, from data-driven web platforms to edge-AI systems. I also practice data structures and algorithms in C++.
+I'm a B.Tech Computer Science student who enjoys building end-to-end applications and exploring how AI can solve practical problems. My projects span financial research tools and disaster-response simulations; I also sharpen my fundamentals through data structures and algorithms in C++.
 
-- 🔭 Building AI and full-stack projects
-- 🌱 Learning DSA, advanced web development and machine learning
-- 🤝 Open to internships and collaboration
+- Currently building full-stack and AI projects.
+- Learning more about machine learning, web architecture, and DSA.
+- Open to internships and thoughtful collaborations.
 
-### 🛠️ Tech Stack
+## Selected work
 
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres" alt="Backend" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="AI/ML" /> |
+### [BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI) · [Live app](https://bharat-invest-ai-three.vercel.app/)
 
-### 🚀 Featured Projects
+A research dashboard for Indian equities that brings market data, AI-assisted insights, and interactive visualizations into one workflow.
 
-#### 📈 [BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI)
-AI-powered investment analysis platform that combines real-time Indian stock market data, RAG, and machine learning to deliver actionable market insights.
+- Combines a React interface and Node/Express API with PostgreSQL and a FastAPI machine-learning service.
+- Uses Gemini and retrieval-augmented generation for contextual insights; includes comparisons and downloadable PDF reports.
 
-- Live market data pipeline with an LLM (Gemini 2.5 Flash) and RAG for market insights
-- Machine learning models (LightGBM, Scikit-learn) served through a FastAPI microservice
-- Secure JWT authentication, interactive charts and downloadable PDF reports
+<sub>React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · FastAPI · Gemini · LightGBM</sub>
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `FastAPI` `Gemini API` `LightGBM` `Scikit-learn`
+### [MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)
 
-#### 🆘 [MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)
-Infrastructure-free, self-healing IoT mesh network with Edge AI that detects survivors, routes around hazards, and automates emergency triage when cellular networks fail.
+A disaster-response **simulation** exploring how an offline-first rescue mesh could help teams coordinate when connectivity is unreliable.
 
-- On-device survivor detection with TensorFlow.js (YAMNet), no internet needed
-- Dynamic rescue routing around hazards using the A* pathfinding algorithm
-- Real-time mesh communication over WebSockets with a 60 FPS canvas map
+- Simulates mesh messaging and hazard-aware rescue routes, with an interactive map for monitoring the scenario.
+- Experiments with on-device audio classification using TensorFlow.js/YAMNet. LoRa and BLE are proposed deployment paths, not deployed hardware.
 
-`React` `Vite` `TensorFlow.js` `Node.js` `Express` `WebSockets` `Leaflet` `Gemini API`
+<sub>React · Vite · Node.js · Express · WebSockets · TensorFlow.js · Leaflet</sub>
 
-### 📈 Contribution Activity
+## Tools I work with
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | C++ · Python · JavaScript |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **Backend & data** | Node.js · Express · FastAPI · PostgreSQL |
+| **AI / ML** | TensorFlow.js · scikit-learn · LightGBM · Gemini API |
+
+## Contribution trail
+
+The grid below is generated from [Apoorv's contribution calendar](https://github.com/Apoorv-0747) and refreshed by a GitHub Action.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake-dark.svg" width="100%" alt="Animated snake crossing Apoorv Verma's GitHub contribution grid" />
 </picture>
 
 ---
 
-<p align="center">📫 Let's connect: <a href="mailto:imapoorv108@gmail.com">imapoorv108@gmail.com</a></p>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/footer.svg" alt="" width="100%" />
+<p><strong>Have a project in mind?</strong> <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/">Connect on LinkedIn</a> or <a href="mailto:imapoorv108@gmail.com">send me an email</a>.</p>
+
+<img src="assets/footer.svg" alt="" width="100%" />
+
+</div>
