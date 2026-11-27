@@ -1,73 +1,65 @@
-<div align="center">
-
-<h1>Apoorv Verma</h1>
-
-<p><strong>Full-stack development · Applied AI · Problem solving</strong></p>
-
-<img src="assets/typing.svg" alt="Building AI-powered full-stack products" width="82%" />
-
-<p>
-  <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
-  <a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Apoorv" /></a>
-  <a href="https://leetcode.com/u/Apoorv0747/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=22d3ee" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/Apoorv0747"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=22d3ee" alt="CodeChef" /></a>
+<p align="center">
+  <a href="https://github.com/Apoorv-0747">
+    <img src="assets/header.svg" width="880" alt="Apoorv Verma — B.Tech CSE student, full-stack and AI developer. Animated navy and cyan developer banner." />
+  </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="assets/typing.svg" width="690" alt="Building AI-powered full-stack products" />
+</p>
 
-## About me
+<p align="center">
+  <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/"><img src="https://img.shields.io/badge/LinkedIn-101b2b?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn" /></a>
+  <a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-101b2b?style=for-the-badge&logo=gmail&logoColor=67e8f9" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Apoorv0747/"><img src="https://img.shields.io/badge/LeetCode-101b2b?style=for-the-badge&logo=leetcode&logoColor=67e8f9" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/Apoorv0747"><img src="https://img.shields.io/badge/CodeChef-101b2b?style=for-the-badge&logo=codechef&logoColor=67e8f9" alt="CodeChef" /></a>
+</p>
 
-I'm a B.Tech Computer Science student who enjoys building end-to-end applications and exploring how AI can solve practical problems. My projects span financial research tools and disaster-response simulations; I also sharpen my fundamentals through data structures and algorithms in C++.
+---
 
-- Currently building full-stack and AI projects.
-- Learning more about machine learning, web architecture, and DSA.
-- Open to internships and thoughtful collaborations.
+### About
 
-## Selected work
+I'm **Apoorv Verma**, a B.Tech Computer Science student building full-stack applications with applied AI. I like taking an idea from a rough prototype to a working product, and I practice data structures and algorithms in C++ to strengthen the fundamentals behind the work.
 
-### [BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI) · [Live app](https://bharat-invest-ai-three.vercel.app/)
+- **Building:** web products, data-driven tools, and edge-AI experiments.
+- **Learning:** machine learning, system design, and better ways to ship reliable software.
+- **Open to:** internships, open-source work, and collaboration.
 
-A research dashboard for Indian equities that brings market data, AI-assisted insights, and interactive visualizations into one workflow.
+### Featured projects
 
-- Combines a React interface and Node/Express API with PostgreSQL and a FastAPI machine-learning service.
-- Uses Gemini and retrieval-augmented generation for contextual insights; includes comparisons and downloadable PDF reports.
+<a href="https://github.com/Apoorv-0747/BharatInvestAI"><img src="assets/project-bharatinvest.svg" width="100%" alt="BharatInvest AI — full-stack market research dashboard" /></a>
 
-<sub>React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · FastAPI · Gemini · LightGBM</sub>
+A research dashboard for Indian equities, bringing market data, AI-assisted insights, and interactive charts into one workflow. The React frontend connects to a Node/Express API, PostgreSQL, and a FastAPI machine-learning service. It also supports comparisons and PDF reports. **[Explore the repository](https://github.com/Apoorv-0747/BharatInvestAI) · [Try the live app](https://bharat-invest-ai-three.vercel.app/)**
 
-### [MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)
+<a href="https://github.com/Apoorv-0747/Mesh-Rescue-Disaster"><img src="assets/project-meshrescue.svg" width="100%" alt="MeshRescue — disaster-response mesh simulation and edge-AI experiment" /></a>
 
-A disaster-response **simulation** exploring how an offline-first rescue mesh could help teams coordinate when connectivity is unreliable.
+A **disaster-response simulation** for exploring mesh messaging, hazard-aware routing, and on-device audio classification with TensorFlow.js/YAMNet. The interactive map helps visualize rescue scenarios; LoRa and BLE are proposed deployment paths, not deployed hardware. **[Explore the repository](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)**
 
-- Simulates mesh messaging and hazard-aware rescue routes, with an interactive map for monitoring the scenario.
-- Experiments with on-device audio classification using TensorFlow.js/YAMNet. LoRa and BLE are proposed deployment paths, not deployed hardware.
+### Toolkit
 
-<sub>React · Vite · Node.js · Express · WebSockets · TensorFlow.js · Leaflet</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,vite,tailwind,nodejs,express,fastapi,postgres,tensorflow,sklearn&perline=6&theme=dark" alt="C++, Python, JavaScript, React, Vite, Tailwind CSS, Node.js, Express, FastAPI, PostgreSQL, TensorFlow, and scikit-learn" />
+</p>
 
-## Tools I work with
-
-| Area | Tools |
+| Focus | Tools I use |
 | :--- | :--- |
 | **Languages** | C++ · Python · JavaScript |
-| **Frontend** | React · Vite · Tailwind CSS |
-| **Backend & data** | Node.js · Express · FastAPI · PostgreSQL |
-| **AI / ML** | TensorFlow.js · scikit-learn · LightGBM · Gemini API |
+| **Web** | React · Vite · Tailwind CSS · Node.js · Express |
+| **Data & AI** | PostgreSQL · FastAPI · TensorFlow.js · scikit-learn · LightGBM · Gemini API |
 
-## Contribution trail
+### Contribution trail
 
-The grid below is generated from [Apoorv's contribution calendar](https://github.com/Apoorv-0747) and refreshed by a GitHub Action.
+<p align="center"><sub>A little arcade energy for the commit history. The snake follows <a href="https://github.com/Apoorv-0747">Apoorv's actual contribution calendar</a> and is refreshed automatically.</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake-dark.svg" width="100%" alt="Animated snake crossing Apoorv Verma's GitHub contribution grid" />
+  <img src="https://raw.githubusercontent.com/priyanshubuild/Apoorv-0747/output/github-snake-dark.svg" width="100%" alt="Animated cyan snake crossing Apoorv Verma's GitHub contribution heatmap" />
 </picture>
 
 ---
 
-<div align="center">
-
-<p><strong>Have a project in mind?</strong> <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/">Connect on LinkedIn</a> or <a href="mailto:imapoorv108@gmail.com">send me an email</a>.</p>
+<p align="center"><strong>Let's build something useful.</strong><br />
+<a href="mailto:imapoorv108@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/">Connect on LinkedIn</a></p>
 
 <img src="assets/footer.svg" alt="" width="100%" />
-
-</div>
