@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Apoorv's contribution snake
 
 on:
   schedule:
@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
@@ -16,15 +18,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - name: Render light and dark contribution trails
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Apoorv-0747
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0891b2&color_dots=#f1f5f9,#c9e9ed,#8ad5d9,#37b6c2,#0e7490
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#67e8f9&color_dots=#0d1117,#14323d,#17606e,#239caf,#67e8f9
 
-      - name: Push to output branch
+      - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
